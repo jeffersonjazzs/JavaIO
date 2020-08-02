@@ -3,6 +3,10 @@ package com.br.itimagine;
 import java.io.File;
 import java.text.DateFormat;
 
+/*
+ * Leitura de arquivos com java
+ */
+
 public class FileDemo {
 	static void p(String s) {
 		System.out.println(s);
